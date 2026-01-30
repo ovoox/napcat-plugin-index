@@ -70,6 +70,20 @@
         "工具"
       ],
       "minVersion": "4.14.0"
+    },
+    {
+      "id": "napcat-plugin-workflow",
+      "name": "AI可视化工作流",
+      "version": "1.0.0",
+      "description": "AI工作流，可视化web拓展面板",
+      "author": "冷曦",
+      "homepage": "https://github.com/lengxi-root/napcat-plugin-workflow",
+      "downloadUrl": "https://github.com/lengxi-root/napcat-plugin-workflow/releases/download/latest/napcat-plugin-workflow.zip",
+      "tags": [
+        "工具",
+        "自动化"
+      ],
+      "minVersion": "4.14.0"
     }
   ]
 }
