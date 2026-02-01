@@ -125,7 +125,21 @@
         "群管",
         "撤回"
       ],
-      "minVersion": "1.0"
+      "minVersion": "4.14.0"
+    },
+    {
+      "id": "napcat-plugin-bilibili",
+      "name": "Bilibili 解析",
+      "version": "1.0",
+      "description": "自动解析聊天消息中的 Bilibili 视频链接,并获取视频详情发送到聊天中",
+      "author": "AQiaoYo",
+      "homepage": "https://github.com/AQiaoYo/napcat-plugin-bilibili",
+      "downloadUrl": "https://github.com/AQiaoYo/napcat-plugin-bilibili/releases/latest/download/napcat-plugin-auto-clear.zip",
+      "tags": [
+        "工具",
+        "娱乐"
+      ],
+      "minVersion": "4.14.0"
     }
   ]
 }
